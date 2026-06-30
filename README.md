@@ -62,6 +62,6 @@ Este repositório será atualizado constantemente conforme avanço nos estudos e
 
 **Felipe**
 
-Estudante de TI, desenvolvedor em formação e atleta de futebol.
+Estudante de TI, desenvolvedor em formação.
 
 > "A consistência diária supera a motivação passageira."
