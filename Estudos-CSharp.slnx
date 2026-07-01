@@ -1,3 +1,10 @@
 <Solution>
-  <Project Path="Estudos-CSharp.csproj" />
+  <Folder Name="/Estudos-CSharp/">
+    <File Path=".gitattributes" />
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/Estudos-CSharp/Curso-Logica/">
+    <Project Path="../Aula-01/Aula-01.csproj" Id="ea009dae-c0f4-449d-a966-f845a4540d01" />
+  </Folder>
 </Solution>
