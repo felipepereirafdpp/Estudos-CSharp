@@ -19,8 +19,8 @@
 
 ## 💻 Exercícios realizados
 
-* [ ] Ex01
-* [ ] Ex02
+* [x] Ex01
+* [x] Ex02
 
 
 ---
