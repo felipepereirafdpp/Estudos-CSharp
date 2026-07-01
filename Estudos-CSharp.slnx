@@ -5,7 +5,7 @@
     <File Path="README.md" />
   </Folder>
   <Folder Name="/Estudos-CSharp/Curso-Logica/">
-    <Project Path="../Aula-01/Aula-01.csproj" Id="ea009dae-c0f4-449d-a966-f845a4540d01" />
-    <Project Path="../Aula-02/Aula-02.csproj" Id="b97f348a-03ec-44a8-84af-bf86fbdb78c7" />
+    <Project Path="Curso-Logica/Aula-01/Aula-01.csproj" Id="c9f0105c-6d90-4dee-a400-1248129ec12c" />
+    <Project Path="Curso-Logica/Aula-02/Aula-02.csproj" Id="9d328025-6928-4f85-8a84-e5047ac0ee3b" />
   </Folder>
 </Solution>
