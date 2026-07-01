@@ -6,5 +6,6 @@
   </Folder>
   <Folder Name="/Estudos-CSharp/Curso-Logica/">
     <Project Path="../Aula-01/Aula-01.csproj" Id="ea009dae-c0f4-449d-a966-f845a4540d01" />
+    <Project Path="../Aula-02/Aula-02.csproj" Id="b97f348a-03ec-44a8-84af-bf86fbdb78c7" />
   </Folder>
 </Solution>
