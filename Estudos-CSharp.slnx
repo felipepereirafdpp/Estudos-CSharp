@@ -8,4 +8,7 @@
     <Project Path="Curso-Logica/Aula-01/Aula-01.csproj" Id="c9f0105c-6d90-4dee-a400-1248129ec12c" />
     <Project Path="Curso-Logica/Aula-02/Aula-02.csproj" Id="9d328025-6928-4f85-8a84-e5047ac0ee3b" />
   </Folder>
+  <Folder Name="/Estudos-CSharp/Exercicios/">
+    <Project Path="Exercicios/Exercicio-01/Exercicio-01.csproj" Id="404cc1cd-6f07-4a98-96cb-56ed42f0d384" />
+  </Folder>
 </Solution>
