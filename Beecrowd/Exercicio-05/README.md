@@ -1,7 +1,7 @@
 # 📚 Desafio Beecrowd - 05
 
 **📅 Data:** 02/07/2026
-**⏱️ Tempo de estudo:** 6 Minutos
+**⏱️ Tempo do Desafio:** 6 Minutos
 
 ## 📝 Resumo do Exercicio
 

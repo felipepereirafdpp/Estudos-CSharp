@@ -1,7 +1,7 @@
 # 📚 Desafio Beecrowd - 04
 
 **📅 Data:** 02/07/2026
-**⏱️ Tempo de estudo:** 8 Minutos
+**⏱️ Tempo do Desafio:** 8 Minutos
 
 ## 📝 Resumo do Exercicio
 
