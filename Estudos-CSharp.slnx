@@ -4,11 +4,15 @@
     <File Path=".gitignore" />
     <File Path="README.md" />
   </Folder>
+  <Folder Name="/Estudos-CSharp/Beecrowd/">
+    <Project Path="Beecrowd/Exercicio-01/Exercicio-01.csproj" Id="00b08d58-483c-4001-ba74-f624a161b0b5" />
+    <Project Path="Beecrowd/Exercicio-02/Exercicio-02.csproj" Id="ff824029-3033-4944-8f8c-14c3f60165f7" />
+    <Project Path="Beecrowd/Exercicio-03/Exercicio-03.csproj" Id="b0fa632d-f136-47d3-b900-bc640dd4fe56" />
+    <Project Path="Beecrowd/Exercicio-04/Exercicio-04.csproj" Id="ca3e5067-d4c3-4a9a-b5e1-7f92a9deaa66" />
+    <Project Path="Beecrowd/Exercicio-05/Exercicio-05.csproj" Id="a0966b32-d5c4-4303-8db1-1cd5b39cbfee" />
+  </Folder>
   <Folder Name="/Estudos-CSharp/Curso-Logica/">
     <Project Path="Curso-Logica/Aula-01/Aula-01.csproj" Id="c9f0105c-6d90-4dee-a400-1248129ec12c" />
     <Project Path="Curso-Logica/Aula-02/Aula-02.csproj" Id="9d328025-6928-4f85-8a84-e5047ac0ee3b" />
-  </Folder>
-  <Folder Name="/Estudos-CSharp/Exercicios/">
-    <Project Path="Exercicios/Exercicio-01/Exercicio-01.csproj" Id="404cc1cd-6f07-4a98-96cb-56ed42f0d384" />
   </Folder>
 </Solution>
