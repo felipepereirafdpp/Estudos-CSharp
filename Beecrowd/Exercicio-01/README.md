@@ -3,7 +3,7 @@
 **📅 Data:** 02/07/2026
 **⏱️ Tempo do Desafio:** 5 Minutos
 
-## 📝 Resumo do Exercicio
+## 📝 Resumo do Exercicio 
 
 >  Desenvolvi um programa simples que realiza a soma de dois números armazenados nas variáveis `A` e `B`.
 
