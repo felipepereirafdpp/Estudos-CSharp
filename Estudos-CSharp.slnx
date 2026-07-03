@@ -11,10 +11,15 @@
     <Project Path="Beecrowd/Exercicio-04/Exercicio-04.csproj" Id="ca3e5067-d4c3-4a9a-b5e1-7f92a9deaa66" />
     <Project Path="Beecrowd/Exercicio-05/Exercicio-05.csproj" Id="a0966b32-d5c4-4303-8db1-1cd5b39cbfee" />
     <Project Path="Beecrowd/Exercicio-06/Exercicio-06.csproj" Id="f96323c0-1e2b-4847-8c4d-5b96b2195bb3" />
+    <Project Path="Beecrowd/Exercicio-07/Exercicio-07.csproj" Id="c4cd95f6-9cf0-460d-becc-90d933c3a4a7" />
+    <Project Path="Beecrowd/Exercicio-08/Exercicio-08.csproj" Id="36ee04d2-3043-4f88-a079-e6674f13dfb0" />
+    <Project Path="Beecrowd/Exercicio-09/Exercicio-09.csproj" Id="558ea59a-7ddd-4309-9c72-533af80e6341" />
+    <Project Path="Beecrowd/Exercicio-10/Exercicio-10.csproj" Id="0b8de81d-120b-4bfd-b6a3-4ed7ee9a56df" />
   </Folder>
   <Folder Name="/Estudos-CSharp/Curso-Logica/">
     <Project Path="Curso-Logica/Aula-01/Aula-01.csproj" Id="c9f0105c-6d90-4dee-a400-1248129ec12c" />
     <Project Path="Curso-Logica/Aula-02/Aula-02.csproj" Id="9d328025-6928-4f85-8a84-e5047ac0ee3b" />
     <Project Path="Curso-Logica/Aula-03/Aula-03.csproj" Id="33487b03-524a-4e1a-82ee-353f0d2c6966" />
+    <Project Path="Curso-Logica/Aula-04/Aula-04.csproj" Id="47b2a294-faa1-4f55-9812-4dc5d95c6b6b" />
   </Folder>
 </Solution>

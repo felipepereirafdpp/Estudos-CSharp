@@ -1,4 +1,4 @@
-# 📚 Desafio Beecrowd - 05
+# 📚 Desafio Beecrowd - 06
 
 **📅 Data:** 03/07/2026
 **⏱️ Tempo do Desafio:** 15 Minutos
