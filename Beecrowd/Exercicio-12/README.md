@@ -1,12 +1,11 @@
-# 📚 Desafio Beecrowd - 11
+# 📚 Desafio Beecrowd - 12
 
 **📅 Data:** 06/07/2026
 **⏱️ Tempo do Desafio:** 10 Minutos
 
 ## 📝 Resumo do Exercicio
 
->  Desenvolvi um programa que recebe uam quantidade de idaddes idefinidas e faz a meda entre elas , ele para de executar quando recebe uma idade negativa e quando recebe uma idade negativa ele exibe uma mensagem de "impossivel calcular".
-
+>  Desenvolvi um programa que solicita a senha ao usuário repetidamente até que a senha correta seja informada. Enquanto a senha estiver incorreta, o programa exibe a mensagem "Senha Invalida". Quando a senha correta (2002) é digitada, o programa encerra a execução exibindo a mensagem "Acesso Permitido".
 ---
 
 ## 💡 Conceitos aprendidos
