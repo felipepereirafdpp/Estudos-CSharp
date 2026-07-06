@@ -5,7 +5,7 @@
 
 ## 📝 Resumo do Exercicio
 
->Desenvolvi um programa que recebe uma quantidade indefinida de idades e calcula a média entre elas. A execução é encerrada quando uma idade negativa é informada. Caso a primeira idade informada seja negativa, o programa exibe a mensagem "Impossível calcular".
+>  Desenvolvi um programa que recebe uam quantidade de idaddes idefinidas e faz a meda entre elas , ele para de executar quando recebe uma idade negativa e quando recebe uma idade negativa ele exibe uma mensagem de "impossivel calcular".
 
 ---
 
