@@ -20,6 +20,6 @@
 
 * [x] Ex01
 * [x] Ex02
-
+* [x] Testes de Mesa (Exercicios Escritos no papel)
 
 ---
