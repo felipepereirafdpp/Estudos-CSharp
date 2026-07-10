@@ -1,11 +1,11 @@
-# 📚 Desafio Beecrowd - 18
+# 📚 Desafio Beecrowd - 19
 
-**📅 Data:** 08/07/2026  
-**⏱️ Tempo do Desafio:** 15 Minutos
+**📅 Data:** 10/07/2026  
+**⏱️ Tempo do Desafio:** 10 Minutos
 
 ## 📝 Resumo do Exercício
 
-> Desenvolvi um programa que recebe a quantidade de pessoas, lê a idade e a altura de cada uma, calcula a altura média do grupo e exibe a porcentagem de pessoas com menos de 16 anos.
+> Desenvolvi um programa que informa a quantidade de que vai ser passado , ele te devolve o maior numero inserido e o indice que ele se encontra.
 
 ## 💡 Conceitos aprendidos
 
@@ -16,6 +16,8 @@
 - Cálculo de porcentagem.
 - Entrada e saída de dados (`Console.ReadLine` e `Console.WriteLine`).
 - Utilização de `CultureInfo.InvariantCulture` para leitura e exibição de números decimais.
+- Vetor
+- Split() 
 
 ---
 
