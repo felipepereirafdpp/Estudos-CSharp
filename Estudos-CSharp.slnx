@@ -28,6 +28,10 @@
     <Project Path="Beecrowd/Exercicio-21/Exercicio-21.csproj" Id="708728c5-c012-4017-b591-cb12e19c342d" />
     <Project Path="Beecrowd/Exercicio-22/Exercicio-22.csproj" Id="67cf6a00-2e72-4953-8fad-2341c7873ddb" />
     <Project Path="Beecrowd/Exercicio-23/Exercicio-23.csproj" Id="0ef5254d-b57a-427c-86bf-c5ea79270736" />
+    <Project Path="Beecrowd/Exercicio-24/Exercicio-24.csproj" Id="3b7da7b8-502f-4140-a273-3b17dc58886d" />
+    <Project Path="Beecrowd/Exercicio-25/Exercicio-25.csproj" Id="196b67d7-583d-4f42-a083-213de2f5dda8" />
+    <Project Path="Beecrowd/Exercicio-26/Exercicio-26.csproj" Id="b34cd112-534e-460f-a00c-c7b5f6572d29" />
+    <Project Path="Beecrowd/Exercicio-27/Exercicio-27.csproj" Id="32c70799-cb9b-469e-a0d0-f37ddb6afb8e" />
   </Folder>
   <Folder Name="/Estudos-CSharp/Curso-Logica/">
     <Project Path="Curso-Logica/Aula-01/Aula-01.csproj" Id="c9f0105c-6d90-4dee-a400-1248129ec12c" />
