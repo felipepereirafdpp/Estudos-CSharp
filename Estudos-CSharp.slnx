@@ -42,5 +42,6 @@
     <Project Path="Curso-Logica/Aula-06/Aula-06.csproj" Id="e005d76c-0296-4318-97ae-73975bcf7ffa" />
     <Project Path="Curso-Logica/Aula-07/Aula-07.csproj" Id="b3a6d51e-3970-42ed-8b4c-fb547cc1e716" />
     <Project Path="Curso-Logica/Aula-08/Aula-08.csproj" Id="59838319-145c-471e-9d7d-2496c30ff77c" />
+    <Project Path="Curso-Logica/Aula-09/Aula-09.csproj" Id="04c15514-8c74-4230-b8f7-592b288026e4" />
   </Folder>
 </Solution>
