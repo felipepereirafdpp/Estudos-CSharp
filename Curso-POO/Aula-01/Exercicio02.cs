@@ -10,8 +10,16 @@ namespace Aula_01
         public double LadoB { get; set; }
         public double LadoC { get; set; }
 
+        public double CalularAreaTriangulo()
+        {
+            double p = (LadoA + LadoB + LadoC) / 2.00;
+            double areaTriangulo = Math.Sqrt(p * (p - LadoA) * (p - LadoB) * (p - LadoC));
+
+            return areaTriangulo;
+        }
+
     }
-    
+   
         
 
 }

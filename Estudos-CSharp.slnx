@@ -52,5 +52,6 @@
   </Folder>
   <Folder Name="/Estudos-CSharp/Curso-POO/">
     <Project Path="Curso-POO/Aula-01/Aula-01.csproj" Id="422f2c26-1a2a-440c-a4f5-f719a1787d1c" />
+    <Project Path="Curso-POO/Aula-02/Aula-02.csproj" Id="3eaf59a9-ab26-41c8-b3dc-440c9b96d251" />
   </Folder>
 </Solution>

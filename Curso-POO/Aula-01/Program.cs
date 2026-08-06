@@ -23,11 +23,10 @@ Y.LadoA = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 Y.LadoB = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 Y.LadoC = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-double pX = (X.LadoA + X.LadoB + X.LadoC) / 2.0;
-double areaTrianguloX = Math.Sqrt(pX * (pX - X.LadoA) * (pX - X.LadoB) * (pX - X.LadoC));
 
-double pY = (Y.LadoA + Y.LadoB + Y.LadoC) / 2.0;
-double areaTrianguloY = Math.Sqrt(pY * (pY - Y.LadoA) * (pY - Y.LadoB) * (pY - Y.LadoC));
+double areaTrianguloX = X.CalularAreaTriangulo();
+double areaTrianguloY = Y.CalularAreaTriangulo();
+
 
 Console.WriteLine("Área de X: " + areaTrianguloX.ToString("F4"), CultureInfo.InvariantCulture);
 Console.WriteLine("Área de Y: " + areaTrianguloY.ToString("F4"), CultureInfo.InvariantCulture);
@@ -64,14 +63,9 @@ pessoaB.Nome = Console.ReadLine();
 Console.Write("Idade:");
 pessoaB.Idade = int.Parse(Console.ReadLine());
 
-if (pessoaA.Idade > pessoaB.Idade)
-{
-    Console.WriteLine("Pessoa mais velha: " + pessoaA.Nome);
-}
-else
-{
-    Console.WriteLine("Pessoa mais velha: " + pessoaB.Nome);
-}
+string resposta = pessoaA.CalcularIdade(pessoaA, pessoaB);
+Console.WriteLine(resposta);
+
 
 
 // Exercicios 
@@ -82,17 +76,28 @@ Funcionario funcionarioA, funcionarioB;
 
 funcionarioA = new Funcionario();
 funcionarioB = new Funcionario();
+
+
+
 Console.WriteLine("Dados do primeiro funcionario: ");
+
 Console.Write("Nome:");
 funcionarioA.Nome = Console.ReadLine();
+
 Console.Write("Salario:");
-funcionarioA.Salario = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
+funcionarioA.Salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
 
 Console.WriteLine("Dados do segundo funcionario: ");
 Console.Write("Nome:");
+
 funcionarioB.Nome = Console.ReadLine();
 Console.Write("Salario:");
+
+
+
 funcionarioB.Salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-double mediaSalarial = (funcionarioA.Salario + funcionarioB.Salario) / 2;
+double mediaSalarial = funcionarioA.CalcularMediaSalarial(funcionarioA, funcionarioB);
+
 Console.WriteLine("Media Salarial: " + mediaSalarial.ToString("F2", CultureInfo.InvariantCulture));
