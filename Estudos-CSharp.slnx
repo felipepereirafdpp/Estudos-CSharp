@@ -54,4 +54,9 @@
     <Project Path="Curso-POO/Aula-01/Aula-01.csproj" Id="422f2c26-1a2a-440c-a4f5-f719a1787d1c" />
     <Project Path="Curso-POO/Aula-02/Aula-02.csproj" Id="3eaf59a9-ab26-41c8-b3dc-440c9b96d251" />
   </Folder>
+  <Folder Name="/Estudos-CSharp/Exercicio-POO/">
+    <Project Path="Exercicio-POO/Exercicio-01/Exercicio-01.csproj" Id="44da7dea-591e-42cc-b382-441dbc6540ea" />
+    <Project Path="Exercicio-POO/Exercicio-02/Exercicio-02.csproj" Id="8ddb6753-f963-4481-a4ed-91ece1060e4c" />
+    <Project Path="Exercicio-POO/Exercicio-03/Exercicio-03.csproj" Id="d6c46bc3-e1ab-461c-8ef7-1f242f4d8e16" />
+  </Folder>
 </Solution>
