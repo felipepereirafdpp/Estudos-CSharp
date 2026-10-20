@@ -4,6 +4,6 @@ Produto p = new Produto("TV", 10);
 
 Console.WriteLine(p.GetNome());
 
-p.SetNome("TV 4K");
+p.Nome = "TV 4K";
 
 Console.WriteLine(p.GetNome());
